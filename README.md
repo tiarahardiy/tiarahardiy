@@ -7,7 +7,7 @@
  - 🌱 I’m currently learning ReactJS and other javascript framework like vuejs, next,js, and also learn UX Design
  - 💬 Ask me about Front End Programming like HTML, JS and CSS
  - 📫 How to reach me: tiarahardiyanti2@gmail.com
- - 🖥️ See my portfolio : https://tiarahardiy.github.io/myportfolio/ (Sorry, not updated😥 I'll be update soon)
+ - 🖥️ See my portfolio : https://tiarahardiy.github.io/portfolio/
  - 🌍 I'm based in Surabaya, Indonesia
  - 😄 Pronouns: she/her
  - ⚡ Fun fact: Part of my life is being a Fangirl of NCT DREAM💚. I'm NCTzen Dream🍃
